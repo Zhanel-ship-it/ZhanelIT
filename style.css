@@ -1,0 +1,29 @@
+body{
+	background-color: lightgreen;
+	    img {
+  float: none;
+}
+  
+}
+#addition{
+	width: 200px;
+	height: 200px;
+	background color: white;
+	float:right;
+	padding:50px 20px 50px 50px;
+	border-width:30px 30px 30px 30px;
+	border-color: black;
+	border-style: solid;
+	
+}
+.sava {
+	display: block;
+	background-color: lightgreen;
+	margin-right: 22.5%;
+	height: 50px;
+	display a list of links as a Verticle menu;
+    
+
+
+
+
